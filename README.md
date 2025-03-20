@@ -1,5 +1,5 @@
 ### Hi there I'm Darren.👋 Resident Healthcare Data Dude.
-#### 10+ Years Experience in Epic and Healthcare Reporting with several Cogito certifications working at several large hospitals across the country ####
+#### 10+ Years Experience in Epic and Healthcare Reporting with several Cogito certifications working at large Hospital and Hospital Systems across the country. ####
 #### Experience working with Epic's analytical reporting suite including Cogito SQL, as well as third party tools such as Tableau, PowerBI, SAP Web Intelligence, Python, Jupyter Notebooks, and Oracle SQL ####
 
 - 🔭 I’m currently learning and working on developing LLM agents using OpenAIs Public API key.
