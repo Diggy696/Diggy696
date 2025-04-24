@@ -1,8 +1,9 @@
 ### Hi there I'm Darren.👋 Resident Healthcare Data Dude.
-#### 10+ Years Experience in Epic and Healthcare Reporting with several Cogito certifications working at large Hospital and Hospital Systems across the country. ####
+#### 10+ Years Experience in Epic and Healthcare Reporting with several Cogito certifications, with a heavy focus on Inpatient and Hospital Billing.
+#### Currently working remotely for Cedars Sinai in Los Angeles,CA
 #### Experience working with Epic's analytical reporting suite including Cogito SQL, as well as third party tools such as Tableau, PowerBI, SAP Web Intelligence, Python, Jupyter Notebooks, and Oracle SQL ####
 
-- 🔭 I’m currently learning and working on developing LLM agents using OpenAIs Public API key.
+- 🔭 I’m currently learning and working on developing LLM agents using OpenAIs Public API key and developing my Data Science skills
 - 📫 How to reach me: darren.webber.unc@gmail.com or my LinkedIn: https://www.linkedin.com/in/darrendwebber77/
 
 <!--
